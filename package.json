@@ -1,0 +1,33 @@
+{
+  "name": "stock-market-charts-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "nodemon": "nodemon index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MouseZero/stock-market-charts-back-end.git"
+  },
+  "keywords": [
+    "stock",
+    "market",
+    "value",
+    "chart"
+  ],
+  "author": "Russell Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MouseZero/stock-market-charts-back-end/issues"
+  },
+  "homepage": "https://github.com/MouseZero/stock-market-charts-back-end#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
